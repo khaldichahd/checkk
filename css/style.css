@@ -1,0 +1,18 @@
+header {
+	display: flex;
+	width: 90%;
+	height: 10vh;
+	margin: auto;
+	align-items:left ;
+    background-color:white;
+}
+.nav-link{
+    display: inline;
+}
+.logo-container {
+	flex: 1;
+}
+.logo {
+	font-weight: 1;
+	margin: 5px;
+}
